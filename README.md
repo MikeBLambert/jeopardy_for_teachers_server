@@ -2,7 +2,7 @@
 
 #### _A Tool For Teachers, November 3, 2018_
 
-#### By _**Claire Flanagan, Sarah Flynn, Sophie Graham, and Mike Lambert_
+#### By _**Claire Flanagan, Sarah Flynn, Sophie Graham, and Mike Lambert**_
 
 ## Description
 _The server side of a teaching tool for instructors at any level who want to bring a fun game designed to aid in student’s learning. Inspired by Jeopardy, Jeopardy For Teachers allows the user to create a board specific to their needs. The user is able to search our database of over 300,000 Jeopardy questions as well as create their own._
