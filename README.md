@@ -1,6 +1,6 @@
 # _Jeopardy For Teachers Server_
 
-#### _A Tool For Teachers, November 3, 2018_
+#### _A Tool For Teachers, September 2018_
 
 #### By _**Claire Flanagan, Sarah Flynn, Sophie Graham, and Mike Lambert**_
 
